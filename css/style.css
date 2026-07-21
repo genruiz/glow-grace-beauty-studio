@@ -232,7 +232,7 @@ header {
 .package-card {
     border: 0;
     border-radius: 1rem;
-    box-shadow: var(--accent-color);
+    box-shadow: 0 4px 15px rgba(166, 95, 115, 0.20);
     transition: transform 0.25s ease, box-shadow 0.25s ease;
 }
 
@@ -320,7 +320,7 @@ header {
     height: 260px;
     object-fit: cover;
     border-radius: 1rem;
-    box-shadow: var(--accent-color);
+    box-shadow: 0 4px 15px rgba(166, 95, 115, 0.20);
     transition: transform 0.25s ease;
 }
 
@@ -358,7 +358,7 @@ header {
     padding: 1.6rem;
     border-radius: 1rem;
     background: var(--background-color);
-    box-shadow: var(--accent-color);
+    box-shadow: 0 4px 15px rgba(166, 95, 115, 0.20);
 }
 
 .contact-box h2 {
